@@ -26,7 +26,7 @@ The Samba server included in the Time Machine docker container logs to `STDOUT` 
   <dd>The name of the share as it will appear in the Time Machine application. Default is 'Data'</dd>
   <dt><strong>timemachine_password</strong></dt>
   <dd>The password used to access the share.  Default is 'timemachine'</dd>
-<dl>
+</dl>
 
 ## Upgrading from AFP to SMB-based Time Machine
 

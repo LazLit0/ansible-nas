@@ -312,7 +312,7 @@ krusader_port_vnc: "5900"
 ###
 ### Time Machine
 ###
-timemachine_data_directory: "{{ docker_home }}/timemachine"
+timemachine_data_directory: "/tank/timemachine"
 timemachine_volume_size_limit: "0"
 timemachine_password: timemachine
 timemachine_share_name: Data
